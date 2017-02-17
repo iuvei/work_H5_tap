@@ -1,0 +1,153 @@
+
+poacher.png
+size: 185,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_a
+  rotate: true
+  xy: 114, 45
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+b_b
+  rotate: true
+  xy: 65, 70
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+b_c
+  rotate: false
+  xy: 0, 70
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+b_d
+  rotate: true
+  xy: 145, 79
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+ll_a
+  rotate: false
+  xy: 51, 0
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+ll_b
+  rotate: false
+  xy: 160, 39
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+ll_c
+  rotate: false
+  xy: 114, 85
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+o_a
+  rotate: true
+  xy: 80, 1
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+o_b
+  rotate: true
+  xy: 96, 2
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+o_c
+  rotate: false
+  xy: 0, 6
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+o_d
+  rotate: false
+  xy: 90, 124
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+r_a
+  rotate: false
+  xy: 145, 102
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+r_b
+  rotate: false
+  xy: 51, 34
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+r_c
+  rotate: false
+  xy: 133, 34
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+rl_a
+  rotate: false
+  xy: 133, 54
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+rl_b
+  rotate: false
+  xy: 110, 18
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+rl_c
+  rotate: false
+  xy: 114, 34
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+t_a
+  rotate: true
+  xy: 90, 35
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+t_b
+  rotate: false
+  xy: 160, 59
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+t_c
+  rotate: true
+  xy: 145, 141
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+w_a
+  rotate: false
+  xy: 0, 123
+  size: 88, 62
+  orig: 88, 62
+  offset: 0, 0
+  index: -1

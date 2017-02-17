@@ -1,0 +1,11 @@
+{
+    "renderMode": 0,
+    "showFPS": true,
+    "frameRate": 30,
+    "version": "0.0.1.1",
+    "service": "http://192.168.80.253:2688",
+    "environment": "debug",
+    "appID": 10002,
+    "appKey": "86a22e8cdf773a4c6329d16ff1587cec",
+    "channelID": 2
+}

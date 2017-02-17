@@ -1,0 +1,117 @@
+{
+    "frames": {
+        "development.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 29,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 29
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 29
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "logo.png": {
+            "frame": {
+                "x": 90,
+                "y": 0,
+                "w": 367,
+                "h": 176,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 367,
+                "h": 176
+            },
+            "sourceSize": {
+                "w": 367,
+                "h": 176
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "register.png": {
+            "frame": {
+                "x": 0,
+                "y": 178,
+                "w": 638,
+                "h": 386,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 638,
+                "h": 386
+            },
+            "sourceSize": {
+                "w": 638,
+                "h": 386
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "selectBg.png": {
+            "frame": {
+                "x": 0,
+                "y": 566,
+                "w": 485,
+                "h": 63,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 485,
+                "h": 63
+            },
+            "sourceSize": {
+                "w": 485,
+                "h": 63
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "selectServer.png": {
+            "frame": {
+                "x": 487,
+                "y": 566,
+                "w": 142,
+                "h": 55,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 142,
+                "h": 55
+            },
+            "sourceSize": {
+                "w": 142,
+                "h": 55
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "ui.loading.png",
+        "prefix": "assets\/ui.loading\/"
+    }
+}

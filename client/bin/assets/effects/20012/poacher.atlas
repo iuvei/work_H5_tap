@@ -1,0 +1,62 @@
+
+poacher.png
+size: 118,39
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1012se01
+  rotate: false
+  xy: 86, 19
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+1012se02
+  rotate: true
+  xy: 109, 17
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+1012se030001
+  rotate: false
+  xy: 86, 1
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+1012se030002
+  rotate: false
+  xy: 68, 5
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+1012se030003
+  rotate: false
+  xy: 24, 0
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+1012se030004
+  rotate: false
+  xy: 0, 3
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+1012se030005
+  rotate: false
+  xy: 0, 3
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+1012se030006
+  rotate: false
+  xy: 45, 5
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1

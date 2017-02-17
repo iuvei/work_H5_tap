@@ -1,0 +1,285 @@
+{
+    "frames": {
+        "baoxiang.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 146,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 240,
+                "h": 146
+            },
+            "sourceSize": {
+                "w": 240,
+                "h": 146
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bg_dailyboss_black.png": {
+            "frame": {
+                "x": 242,
+                "y": 0,
+                "w": 233,
+                "h": 223,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 233,
+                "h": 223
+            },
+            "sourceSize": {
+                "w": 233,
+                "h": 223
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bg_dailyboss_red.png": {
+            "frame": {
+                "x": 0,
+                "y": 148,
+                "w": 233,
+                "h": 223,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 233,
+                "h": 223
+            },
+            "sourceSize": {
+                "w": 233,
+                "h": 223
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bg_matchstairs.png": {
+            "frame": {
+                "x": 477,
+                "y": 0,
+                "w": 75,
+                "h": 21,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 75,
+                "h": 21
+            },
+            "sourceSize": {
+                "w": 75,
+                "h": 21
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "bg_money.png": {
+            "frame": {
+                "x": 554,
+                "y": 0,
+                "w": 100,
+                "h": 37,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 100,
+                "h": 37
+            },
+            "sourceSize": {
+                "w": 100,
+                "h": 37
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "boss.png": {
+            "frame": {
+                "x": 656,
+                "y": 0,
+                "w": 169,
+                "h": 127,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 169,
+                "h": 127
+            },
+            "sourceSize": {
+                "w": 169,
+                "h": 127
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "button_enter_off.png": {
+            "frame": {
+                "x": 477,
+                "y": 39,
+                "w": 148,
+                "h": 124,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 148,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 148,
+                "h": 124
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "button_enter_on.png": {
+            "frame": {
+                "x": 627,
+                "y": 129,
+                "w": 148,
+                "h": 124,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 148,
+                "h": 124
+            },
+            "sourceSize": {
+                "w": 148,
+                "h": 124
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "image_BlueGragon.png": {
+            "frame": {
+                "x": 235,
+                "y": 225,
+                "w": 361,
+                "h": 278,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 361,
+                "h": 278
+            },
+            "sourceSize": {
+                "w": 361,
+                "h": 278
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "image_line.png": {
+            "frame": {
+                "x": 0,
+                "y": 505,
+                "w": 440,
+                "h": 12,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 440,
+                "h": 12
+            },
+            "sourceSize": {
+                "w": 440,
+                "h": 12
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "stage.png": {
+            "frame": {
+                "x": 442,
+                "y": 505,
+                "w": 472,
+                "h": 206,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 472,
+                "h": 206
+            },
+            "sourceSize": {
+                "w": 472,
+                "h": 206
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "stage2.png": {
+            "frame": {
+                "x": 0,
+                "y": 713,
+                "w": 472,
+                "h": 206,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 472,
+                "h": 206
+            },
+            "sourceSize": {
+                "w": 472,
+                "h": 206
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "tick.png": {
+            "frame": {
+                "x": 0,
+                "y": 373,
+                "w": 73,
+                "h": 64,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 73,
+                "h": 64
+            },
+            "sourceSize": {
+                "w": 73,
+                "h": 64
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "ui.Boss_BlueDragon.png",
+        "prefix": "assets\/ui.Boss_BlueDragon\/"
+    }
+}

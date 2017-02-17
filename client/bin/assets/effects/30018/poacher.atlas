@@ -1,0 +1,20 @@
+
+poacher.png
+size: 204,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+libao_0
+  rotate: false
+  xy: 0, 12
+  size: 204, 101
+  orig: 204, 101
+  offset: 0, 0
+  index: -1
+libao_1
+  rotate: false
+  xy: 0, 0
+  size: 163, 10
+  orig: 163, 10
+  offset: 0, 0
+  index: -1

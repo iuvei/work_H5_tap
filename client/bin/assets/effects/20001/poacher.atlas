@@ -1,0 +1,20 @@
+
+poacher.png
+size: 55,37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiongmaotx01
+  rotate: false
+  xy: 0, 0
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+xiongmaotx02
+  rotate: true
+  xy: 38, 3
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+poacher.png
+size: 1667,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: true
+  xy: 1240, 134
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+huo00001
+  rotate: false
+  xy: 892, 24
+  size: 166, 215
+  orig: 180, 215
+  offset: 9, 0
+  index: -1
+huo00002
+  rotate: false
+  xy: 1333, 31
+  size: 169, 208
+  orig: 180, 215
+  offset: 5, 0
+  index: -1
+huo00003
+  rotate: false
+  xy: 1059, 42
+  size: 180, 197
+  orig: 180, 215
+  offset: 0, 0
+  index: -1
+huo00004
+  rotate: false
+  xy: 713, 25
+  size: 178, 214
+  orig: 180, 215
+  offset: 2, 0
+  index: -1
+huo00005
+  rotate: false
+  xy: 532, 24
+  size: 180, 215
+  orig: 180, 215
+  offset: 0, 0
+  index: -1
+huo00006
+  rotate: false
+  xy: 1503, 31
+  size: 163, 208
+  orig: 180, 215
+  offset: 8, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 1, 8
+  size: 530, 231
+  orig: 531, 235
+  offset: 1, 2
+  index: -1
+wenzi
+  rotate: false
+  xy: 1059, 1
+  size: 273, 40
+  orig: 273, 40
+  offset: 0, 0
+  index: -1

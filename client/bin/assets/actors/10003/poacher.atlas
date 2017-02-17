@@ -1,0 +1,174 @@
+
+poacher.png
+size: 753,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_a
+  rotate: false
+  xy: 711, 108
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+b_b
+  rotate: false
+  xy: 494, 122
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+b_b_2
+  rotate: false
+  xy: 494, 36
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+la_b
+  rotate: false
+  xy: 564, 23
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+la_d
+  rotate: false
+  xy: 671, 0
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+ra_a
+  rotate: false
+  xy: 288, 87
+  size: 99, 119
+  orig: 99, 119
+  offset: 0, 0
+  index: -1
+ra_b
+  rotate: true
+  xy: 632, 44
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+ra_c
+  rotate: false
+  xy: 564, 154
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+ra_c_2
+  rotate: false
+  xy: 564, 100
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+ra_d
+  rotate: false
+  xy: 676, 71
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+re_a
+  rotate: false
+  xy: 720, 77
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+re_a_2
+  rotate: false
+  xy: 726, 46
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+rt_a
+  rotate: true
+  xy: 676, 47
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+rt_b
+  rotate: true
+  xy: 647, 108
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+rw_a
+  rotate: false
+  xy: 389, 104
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+rw_a_2
+  rotate: false
+  xy: 389, 0
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+rw_b
+  rotate: false
+  xy: 0, 14
+  size: 142, 192
+  orig: 142, 192
+  offset: 0, 0
+  index: -1
+rw_b_2
+  rotate: false
+  xy: 144, 14
+  size: 142, 192
+  orig: 142, 192
+  offset: 0, 0
+  index: -1
+t_a
+  rotate: true
+  xy: 288, 0
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+t_a_2
+  rotate: true
+  xy: 337, 0
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+t_a_3
+  rotate: false
+  xy: 647, 159
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+t_a_oc
+  rotate: false
+  xy: 564, 47
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+t_a_od
+  rotate: true
+  xy: 494, 0
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+t_c
+  rotate: true
+  xy: 629, 0
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+poacher.png
+size: 169,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1022_b_a
+  rotate: false
+  xy: 46, 60
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+1022_b_b
+  rotate: true
+  xy: 87, 73
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+1022_la_a
+  rotate: true
+  xy: 97, 18
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+1022_la_b
+  rotate: false
+  xy: 97, 0
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+1022_la_c
+  rotate: true
+  xy: 145, 127
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+1022_ll_a
+  rotate: false
+  xy: 145, 143
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+1022_ll_b
+  rotate: false
+  xy: 133, 86
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+1022_ll_c
+  rotate: true
+  xy: 100, 76
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+1022_o_a
+  rotate: false
+  xy: 46, 40
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+1022_o_b
+  rotate: true
+  xy: 75, 15
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+1022_ra_a
+  rotate: false
+  xy: 114, 111
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+1022_ra_b
+  rotate: false
+  xy: 133, 61
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+1022_ra_c
+  rotate: true
+  xy: 83, 40
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+1022_rl_a
+  rotate: false
+  xy: 86, 109
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+1022_rl_b
+  rotate: false
+  xy: 46, 12
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+1022_rl_c
+  rotate: true
+  xy: 116, 79
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+1022_t_a
+  rotate: false
+  xy: 0, 102
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+1022_t_b
+  rotate: false
+  xy: 86, 138
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+1022_w_a
+  rotate: true
+  xy: 0, 1
+  size: 99, 44
+  orig: 99, 44
+  offset: 0, 0
+  index: -1

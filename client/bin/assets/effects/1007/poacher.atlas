@@ -1,0 +1,181 @@
+
+poacher.png
+size: 592,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b0001
+  rotate: false
+  xy: 0, 527
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0002
+  rotate: false
+  xy: 192, 527
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0003
+  rotate: false
+  xy: 384, 527
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0004
+  rotate: true
+  xy: 0, 335
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0005
+  rotate: true
+  xy: 0, 143
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0006
+  rotate: false
+  xy: 0, 76
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0007
+  rotate: false
+  xy: 0, 9
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0008
+  rotate: true
+  xy: 67, 335
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0009
+  rotate: true
+  xy: 67, 143
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0010
+  rotate: true
+  xy: 134, 335
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0011
+  rotate: true
+  xy: 134, 143
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0012
+  rotate: false
+  xy: 192, 76
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0013
+  rotate: false
+  xy: 192, 9
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0014
+  rotate: false
+  xy: 384, 460
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+b0015
+  rotate: false
+  xy: 384, 393
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0003
+  rotate: false
+  xy: 384, 326
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0004
+  rotate: false
+  xy: 384, 259
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0005
+  rotate: false
+  xy: 384, 192
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0006
+  rotate: true
+  xy: 384, 0
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0007
+  rotate: true
+  xy: 451, 0
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0008
+  rotate: true
+  xy: 518, 0
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0009
+  rotate: true
+  xy: 201, 335
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0010
+  rotate: true
+  xy: 201, 143
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0011
+  rotate: true
+  xy: 268, 335
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1
+f0012
+  rotate: true
+  xy: 268, 143
+  size: 190, 65
+  orig: 190, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+poacher.png
+size: 624,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: true
+  xy: 547, 54
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+guangzhu
+  rotate: true
+  xy: 547, 160
+  size: 121, 76
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 1, 1
+  size: 545, 280
+  orig: 545, 280
+  offset: 0, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 547, 7
+  size: 46, 46
+  orig: 64, 64
+  offset: 7, 11
+  index: -1

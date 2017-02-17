@@ -1,0 +1,13 @@
+
+poacher.png
+size: 52,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cike_daoguang
+  rotate: false
+  xy: 0, 0
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1

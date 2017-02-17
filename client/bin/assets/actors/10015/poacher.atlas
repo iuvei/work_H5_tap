@@ -1,0 +1,97 @@
+
+poacher.png
+size: 897,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_a
+  rotate: false
+  xy: 0, 7
+  size: 243, 176
+  orig: 243, 176
+  offset: 0, 0
+  index: -1
+le_a
+  rotate: true
+  xy: 821, 0
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+ll_a
+  rotate: true
+  xy: 609, 2
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+ll_f
+  rotate: true
+  xy: 824, 140
+  size: 43, 73
+  orig: 43, 73
+  offset: 0, 0
+  index: -1
+rl_b
+  rotate: true
+  xy: 824, 34
+  size: 104, 45
+  orig: 104, 45
+  offset: 0, 0
+  index: -1
+rl_c
+  rotate: true
+  xy: 642, 4
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+rl_d
+  rotate: true
+  xy: 725, 6
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1
+rl_e
+  rotate: false
+  xy: 549, 1
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+t_b
+  rotate: true
+  xy: 659, 73
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+t_e
+  rotate: false
+  xy: 416, 13
+  size: 131, 170
+  orig: 131, 170
+  offset: 0, 0
+  index: -1
+t_f
+  rotate: true
+  xy: 748, 73
+  size: 110, 74
+  orig: 110, 74
+  offset: 0, 0
+  index: -1
+t_g
+  rotate: false
+  xy: 549, 73
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+t_h
+  rotate: false
+  xy: 245, 11
+  size: 169, 172
+  orig: 169, 172
+  offset: 0, 0
+  index: -1

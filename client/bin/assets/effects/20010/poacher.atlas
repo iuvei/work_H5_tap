@@ -1,0 +1,90 @@
+
+poacher.png
+size: 719,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niutou_daoguang_06
+  rotate: false
+  xy: 0, 85
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+niutou_daoguang_07
+  rotate: false
+  xy: 140, 85
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+niutou_daoguang_08
+  rotate: false
+  xy: 280, 85
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+niutou_shouji_07
+  rotate: false
+  xy: 0, 0
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+niutou_shouji_09
+  rotate: false
+  xy: 420, 97
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+niutou_shouji_11
+  rotate: false
+  xy: 106, 0
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+niutou_shouji_12
+  rotate: false
+  xy: 526, 97
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+niutou_shouji_14
+  rotate: false
+  xy: 212, 0
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+niutou_shouji_16
+  rotate: false
+  xy: 318, 0
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+niutou_shouji_17
+  rotate: false
+  xy: 424, 12
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+niutou_shouji_18
+  rotate: false
+  xy: 530, 12
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+niutou_shouji_19
+  rotate: true
+  xy: 636, 76
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1

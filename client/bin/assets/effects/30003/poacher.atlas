@@ -1,0 +1,272 @@
+
+poacher.png
+size: 141,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: false
+  xy: 53, 199
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+00002
+  rotate: true
+  xy: 54, 240
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+00003
+  rotate: false
+  xy: 95, 163
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+00004
+  rotate: false
+  xy: 95, 219
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+00005
+  rotate: false
+  xy: 43, 61
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+00006
+  rotate: false
+  xy: 43, 127
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+00007
+  rotate: false
+  xy: 54, 284
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+00008
+  rotate: false
+  xy: 0, 198
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+00009
+  rotate: false
+  xy: 0, 278
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+00010
+  rotate: false
+  xy: 55, 359
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+00011
+  rotate: false
+  xy: 0, 440
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+00012
+  rotate: false
+  xy: 0, 359
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+00013
+  rotate: false
+  xy: 55, 440
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+00014
+  rotate: false
+  xy: 0, 117
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+00015
+  rotate: false
+  xy: 0, 36
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+00016
+  rotate: false
+  xy: 107, 279
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+00017
+  rotate: true
+  xy: 0, 0
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+00018
+  rotate: false
+  xy: 110, 496
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+00019
+  rotate: true
+  xy: 109, 368
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+10001
+  rotate: true
+  xy: 127, 360
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+10002
+  rotate: false
+  xy: 38, 13
+  size: 38, 13
+  orig: 38, 13
+  offset: 0, 0
+  index: -1
+10003
+  rotate: false
+  xy: 53, 225
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+10004
+  rotate: true
+  xy: 126, 397
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+10005
+  rotate: false
+  xy: 95, 131
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+10006
+  rotate: false
+  xy: 95, 147
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+10007
+  rotate: true
+  xy: 94, 25
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+10008
+  rotate: true
+  xy: 127, 30
+  size: 48, 14
+  orig: 48, 14
+  offset: 0, 0
+  index: -1
+10009
+  rotate: false
+  xy: 43, 44
+  size: 49, 15
+  orig: 49, 15
+  offset: 0, 0
+  index: -1
+10010
+  rotate: false
+  xy: 43, 28
+  size: 49, 14
+  orig: 49, 14
+  offset: 0, 0
+  index: -1
+10011
+  rotate: true
+  xy: 110, 26
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+10012
+  rotate: true
+  xy: 93, 74
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+10013
+  rotate: true
+  xy: 110, 442
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+10014
+  rotate: true
+  xy: 127, 80
+  size: 49, 14
+  orig: 49, 14
+  offset: 0, 0
+  index: -1
+10015
+  rotate: true
+  xy: 109, 388
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+10016
+  rotate: true
+  xy: 110, 78
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+10017
+  rotate: true
+  xy: 127, 442
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 26, 9
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+light_a
+  rotate: false
+  xy: 38, 3
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1

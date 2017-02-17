@@ -1,0 +1,13 @@
+
+poacher.png
+size: 53,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger
+  rotate: false
+  xy: 0, 0
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1

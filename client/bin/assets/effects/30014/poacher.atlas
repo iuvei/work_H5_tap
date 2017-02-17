@@ -1,0 +1,153 @@
+
+poacher.png
+size: 376,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: false
+  xy: 193, 327
+  size: 168, 191
+  orig: 168, 191
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 169, 105
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+dandun
+  rotate: false
+  xy: 1, 284
+  size: 191, 234
+  orig: 191, 234
+  offset: 0, 0
+  index: -1
+dandunbeiguang
+  rotate: true
+  xy: 193, 180
+  size: 146, 171
+  orig: 207, 210
+  offset: 27, 16
+  index: -1
+guangtiao0002
+  rotate: true
+  xy: 362, 433
+  size: 33, 12
+  orig: 135, 155
+  offset: 51, 12
+  index: -1
+guangtiao0003
+  rotate: false
+  xy: 318, 71
+  size: 56, 20
+  orig: 135, 155
+  offset: 49, 13
+  index: -1
+guangtiao0004
+  rotate: true
+  xy: 312, 2
+  size: 67, 21
+  orig: 135, 155
+  offset: 47, 19
+  index: -1
+guangtiao0005
+  rotate: false
+  xy: 275, 92
+  size: 70, 21
+  orig: 135, 155
+  offset: 44, 25
+  index: -1
+guangtiao0006
+  rotate: false
+  xy: 275, 136
+  size: 71, 21
+  orig: 135, 155
+  offset: 43, 32
+  index: -1
+guangtiao0007
+  rotate: false
+  xy: 247, 70
+  size: 70, 21
+  orig: 135, 155
+  offset: 41, 38
+  index: -1
+guangtiao0008
+  rotate: false
+  xy: 169, 61
+  size: 72, 21
+  orig: 135, 155
+  offset: 38, 44
+  index: -1
+guangtiao0009
+  rotate: false
+  xy: 275, 114
+  size: 71, 21
+  orig: 135, 155
+  offset: 33, 56
+  index: -1
+guangtiao0010
+  rotate: false
+  xy: 242, 48
+  size: 69, 21
+  orig: 135, 155
+  offset: 29, 67
+  index: -1
+guangtiao0011
+  rotate: false
+  xy: 169, 83
+  size: 77, 21
+  orig: 135, 155
+  offset: 24, 79
+  index: -1
+guangtiao0012
+  rotate: true
+  xy: 334, 1
+  size: 69, 21
+  orig: 135, 155
+  offset: 20, 90
+  index: -1
+guangtiao0013
+  rotate: false
+  xy: 275, 158
+  size: 74, 21
+  orig: 135, 155
+  offset: 18, 97
+  index: -1
+guangtiao0014
+  rotate: true
+  xy: 169, 209
+  size: 74, 21
+  orig: 135, 155
+  offset: 16, 104
+  index: -1
+guangtiao0015
+  rotate: true
+  xy: 347, 93
+  size: 64, 20
+  orig: 135, 155
+  offset: 16, 111
+  index: -1
+guangtiao0016
+  rotate: true
+  xy: 362, 467
+  size: 51, 13
+  orig: 135, 155
+  offset: 26, 119
+  index: -1
+kanban
+  rotate: true
+  xy: 1, 44
+  size: 239, 167
+  orig: 239, 167
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 1, 2
+  size: 305, 41
+  orig: 305, 41
+  offset: 0, 0
+  index: -1

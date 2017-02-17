@@ -1,0 +1,27 @@
+
+poacher.png
+size: 387,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang_1
+  rotate: true
+  xy: 292, 44
+  size: 250, 95
+  orig: 250, 95
+  offset: 0, 0
+  index: -1
+baoxiang_2
+  rotate: false
+  xy: 0, 0
+  size: 271, 136
+  orig: 271, 136
+  offset: 0, 0
+  index: -1
+baoxiang_3
+  rotate: false
+  xy: 0, 138
+  size: 290, 156
+  orig: 290, 156
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+poacher.png
+size: 1386,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00001
+  rotate: true
+  xy: 855, 7
+  size: 168, 191
+  orig: 168, 191
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 302, 100
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+dandao
+  rotate: false
+  xy: 302, 176
+  size: 201, 228
+  orig: 232, 234
+  offset: 17, 4
+  index: -1
+dandaoguang
+  rotate: false
+  xy: 0, 70
+  size: 300, 334
+  orig: 396, 424
+  offset: 52, 42
+  index: -1
+kanban
+  rotate: false
+  xy: 409, 8
+  size: 239, 166
+  orig: 239, 166
+  offset: 0, 0
+  index: -1
+sao00001
+  rotate: true
+  xy: 318, 20
+  size: 78, 61
+  orig: 320, 320
+  offset: 111, 53
+  index: -1
+sao00002
+  rotate: true
+  xy: 318, 20
+  size: 78, 61
+  orig: 320, 320
+  offset: 111, 53
+  index: -1
+sao00003
+  rotate: false
+  xy: 1238, 64
+  size: 148, 173
+  orig: 320, 320
+  offset: 99, 48
+  index: -1
+sao00004
+  rotate: false
+  xy: 1238, 64
+  size: 148, 173
+  orig: 320, 320
+  offset: 99, 48
+  index: -1
+sao00005
+  rotate: true
+  xy: 1135, 239
+  size: 165, 188
+  orig: 320, 320
+  offset: 84, 45
+  index: -1
+sao00006
+  rotate: true
+  xy: 1135, 239
+  size: 165, 188
+  orig: 320, 320
+  offset: 84, 45
+  index: -1
+sao00007
+  rotate: true
+  xy: 650, 0
+  size: 174, 203
+  orig: 320, 320
+  offset: 77, 46
+  index: -1
+sao00008
+  rotate: true
+  xy: 650, 0
+  size: 174, 203
+  orig: 320, 320
+  offset: 77, 46
+  index: -1
+sao00009
+  rotate: false
+  xy: 1048, 7
+  size: 188, 212
+  orig: 320, 320
+  offset: 63, 46
+  index: -1
+sao00010
+  rotate: false
+  xy: 1048, 7
+  size: 188, 212
+  orig: 320, 320
+  offset: 63, 46
+  index: -1
+sao00011
+  rotate: false
+  xy: 707, 177
+  size: 196, 227
+  orig: 320, 320
+  offset: 56, 45
+  index: -1
+sao00012
+  rotate: false
+  xy: 707, 177
+  size: 196, 227
+  orig: 320, 320
+  offset: 56, 45
+  index: -1
+sao00013
+  rotate: false
+  xy: 505, 176
+  size: 200, 228
+  orig: 320, 320
+  offset: 52, 45
+  index: -1
+sao00014
+  rotate: false
+  xy: 505, 176
+  size: 200, 228
+  orig: 320, 320
+  offset: 52, 45
+  index: -1
+sao00015
+  rotate: true
+  xy: 905, 221
+  size: 183, 228
+  orig: 320, 320
+  offset: 69, 45
+  index: -1
+sao00016
+  rotate: true
+  xy: 905, 221
+  size: 183, 228
+  orig: 320, 320
+  offset: 69, 45
+  index: -1
+sao00017
+  rotate: true
+  xy: 0, 0
+  size: 24, 35
+  orig: 320, 320
+  offset: 224, 230
+  index: -1
+sao00018
+  rotate: true
+  xy: 0, 0
+  size: 24, 35
+  orig: 320, 320
+  offset: 224, 230
+  index: -1
+wenzi
+  rotate: false
+  xy: 0, 26
+  size: 316, 42
+  orig: 316, 42
+  offset: 0, 0
+  index: -1

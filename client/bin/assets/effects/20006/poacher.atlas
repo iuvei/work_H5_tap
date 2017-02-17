@@ -1,0 +1,48 @@
+
+poacher.png
+size: 118,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jlss_guanghuan_05
+  rotate: true
+  xy: 0, 45
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+jlss_guanghuan_06
+  rotate: false
+  xy: 58, 18
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+jlss_guanghuan_07
+  rotate: true
+  xy: 0, 14
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+jlss_guanghuan_08
+  rotate: false
+  xy: 89, 18
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+jlss_jian
+  rotate: false
+  xy: 58, 2
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+jlss_lizi
+  rotate: true
+  xy: 0, 0
+  size: 12, 49
+  orig: 12, 49
+  offset: 0, 0
+  index: -1
