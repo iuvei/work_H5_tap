@@ -1,0 +1,117 @@
+{
+    "localhost": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "console",
+                "category": "system"
+            },
+
+            {
+                "type": "console",
+                "category": "analyse"
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "system": "ALL",
+            "analyse": "ALL"
+        }
+    },
+
+    "debug": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "console",
+                "category": "system"
+            },
+
+            {
+                "type": "console",
+                "category": "analyse"
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "system": "ALL",
+            "analyse": "ALL"
+        }
+    },
+
+    "development": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "dateFile",
+                "category": "system",
+                "filename": "/data/logs/hgame006/system.log",
+                "pattern": "-yyyy-MM-dd",
+                "alwaysIncludePattern": true
+            },
+
+            {
+                "type": "dateFile",
+                "category": "analyse",
+                "filename": "/data/logs/hgame006/analyse.log",
+                "pattern": "-yyyy-MM-dd",
+                "alwaysIncludePattern": true
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "system": "ALL",
+            "analyse": "ALL"
+        }
+    },
+
+    "production": {
+        "appenders": [
+            {
+                "type": "console",
+                "category": "console"
+            },
+
+            {
+                "type": "dateFile",
+                "category": "system",
+                "filename": "/data/logs/hgame006/system.log",
+                "pattern": "-yyyy-MM-dd",
+                "alwaysIncludePattern": true
+            },
+
+            {
+                "type": "dateFile",
+                "category": "analyse",
+                "filename": "/data/logs/hgame006/analyse.log",
+                "pattern": "-yyyy-MM-dd",
+                "alwaysIncludePattern": true
+            }
+        ],
+
+        "replaceConsole": true,
+        "levels": {
+            "console": "ALL",
+            "system": "ALL",
+            "analyse": "ALL"
+        }
+    }
+}

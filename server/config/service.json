@@ -1,0 +1,6 @@
+{
+    "localhost": "http://sandbox.whalejoy.com:3000",
+    "debug": "http://192.168.80.253:3000",
+    "development": "http://sandbox.whalejoy.com:3000",
+    "production": "http://master.whalejoy.com:3000"
+}
