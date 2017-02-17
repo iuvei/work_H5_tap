@@ -1,0 +1,23 @@
+[
+    "libs/moment.js",
+    "libs/sprintf.js",
+    "libs/uuid.js",
+    "base/boot.js",
+    "base/events.js",
+    "base/serialize.js",
+    "base/entity.js",
+    "consts/code.js",
+    "consts/game.js",
+    "entities/interface.js",
+    "entities/achievement.js",
+    "entities/artifact.js",
+    "entities/coin.js",
+    "entities/fairy.js",
+    "entities/hero.js",
+    "entities/item.js",
+    "entities/monster.js",
+    "entities/skill.js",
+    "entities/stage.js",
+    "entities/player.js",
+    "entities/playerHandle.js"
+]
